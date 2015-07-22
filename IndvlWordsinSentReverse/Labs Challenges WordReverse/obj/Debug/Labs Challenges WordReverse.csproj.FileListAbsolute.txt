@@ -1,0 +1,9 @@
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs Challenges WordReverse\Labs Challenges WordReverse\bin\Debug\Labs Challenges WordReverse.exe.config
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs Challenges WordReverse\Labs Challenges WordReverse\bin\Debug\Labs Challenges WordReverse.exe
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs Challenges WordReverse\Labs Challenges WordReverse\bin\Debug\Labs Challenges WordReverse.pdb
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs Challenges WordReverse\Labs Challenges WordReverse\obj\Debug\Labs Challenges WordReverse.exe
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs Challenges WordReverse\Labs Challenges WordReverse\obj\Debug\Labs Challenges WordReverse.pdb
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs Challenges WordReverse\Labs Challenges WordReverse\obj\Debug\Labs Challenges WordReverse.csprojResolveAssemblyReference.cache
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs Challenges WordReverse\Labs Challenges WordReverse\bin\Debug\Labs Challenges WordReverse.exe.config
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs Challenges WordReverse\Labs Challenges WordReverse\obj\Debug\Labs Challenges WordReverse.exe
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs Challenges WordReverse\Labs Challenges WordReverse\obj\Debug\Labs Challenges WordReverse.pdb
