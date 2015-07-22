@@ -1,0 +1,21 @@
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs Numbers6\Labs Numbers6\bin\Debug\Labs Numbers6.exe.config
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs Numbers6\Labs Numbers6\obj\Debug\Labs Numbers6.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs Numbers6\Labs Numbers6\bin\Debug\Labs Numbers6.exe
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs Numbers6\Labs Numbers6\bin\Debug\Labs Numbers6.pdb
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs Numbers6\Labs Numbers6\obj\Debug\Labs Numbers6.exe
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs Numbers6\Labs Numbers6\obj\Debug\Labs Numbers6.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Numbers\Labs Numbers6\Labs Numbers6\bin\Debug\Labs Numbers6.exe.config
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Numbers\Labs Numbers6\Labs Numbers6\obj\Debug\Labs Numbers6.exe
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Numbers\Labs Numbers6\Labs Numbers6\obj\Debug\Labs Numbers6.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Numbers\Labs Numbers6\Labs Numbers6\obj\Debug\Labs Numbers6.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Numbers\Labs Numbers6\Labs Numbers6\bin\Debug\Labs Numbers6.exe
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Numbers\Labs Numbers6\Labs Numbers6\bin\Debug\Labs Numbers6.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Numbers\Labs Num6 PrimeNum\Labs Numbers6\bin\Debug\Labs Numbers6.exe.config
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Numbers\Labs Num6 PrimeNum\Labs Numbers6\obj\Debug\Labs Numbers6.exe
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Numbers\Labs Num6 PrimeNum\Labs Numbers6\obj\Debug\Labs Numbers6.pdb
+C:\GitHub\ElisabethBacus\Labs Num6 PrimeNum\Labs Numbers6\bin\Debug\Labs Numbers6.exe.config
+C:\GitHub\ElisabethBacus\Labs Num6 PrimeNum\Labs Numbers6\obj\Debug\Labs Numbers6.exe
+C:\GitHub\ElisabethBacus\Labs Num6 PrimeNum\Labs Numbers6\obj\Debug\Labs Numbers6.pdb
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs Num6 PrimeNum\Labs Numbers6\bin\Debug\Labs Numbers6.exe.config
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs Num6 PrimeNum\Labs Numbers6\obj\Debug\Labs Numbers6.exe
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs Num6 PrimeNum\Labs Numbers6\obj\Debug\Labs Numbers6.pdb

@@ -1,0 +1,9 @@
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Nums 5Fractions\Labs Nums 5Fractions\bin\Debug\Labs Nums 5Fractions.exe.config
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Nums 5Fractions\Labs Nums 5Fractions\bin\Debug\Labs Nums 5Fractions.exe
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Nums 5Fractions\Labs Nums 5Fractions\bin\Debug\Labs Nums 5Fractions.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Nums 5Fractions\Labs Nums 5Fractions\obj\Debug\Labs Nums 5Fractions.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Nums 5Fractions\Labs Nums 5Fractions\obj\Debug\Labs Nums 5Fractions.exe
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Nums 5Fractions\Labs Nums 5Fractions\obj\Debug\Labs Nums 5Fractions.pdb
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs Nums 5Fractions\Labs Nums 5Fractions\bin\Debug\Labs Nums 5Fractions.exe.config
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs Nums 5Fractions\Labs Nums 5Fractions\obj\Debug\Labs Nums 5Fractions.exe
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs Nums 5Fractions\Labs Nums 5Fractions\obj\Debug\Labs Nums 5Fractions.pdb

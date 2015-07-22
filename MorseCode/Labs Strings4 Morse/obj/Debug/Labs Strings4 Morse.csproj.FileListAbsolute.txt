@@ -1,0 +1,13 @@
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs Strings4 Morse\Labs Strings4 Morse\bin\Debug\Labs Strings4 Morse.exe.config
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Strings 4Morse\Labs Strings4 Morse\bin\Debug\Labs Strings4 Morse.exe.config
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Strings 4Morse\Labs Strings4 Morse\bin\Debug\Labs Strings4 Morse.exe
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Strings 4Morse\Labs Strings4 Morse\bin\Debug\Labs Strings4 Morse.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Strings 4Morse\Labs Strings4 Morse\obj\Debug\Labs Strings4 Morse.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Strings 4Morse\Labs Strings4 Morse\obj\Debug\Labs Strings4 Morse.exe
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs Strings 4Morse\Labs Strings4 Morse\obj\Debug\Labs Strings4 Morse.pdb
+C:\GitHub\ElisabethBacus\Labs Strings 4Morse\Labs Strings4 Morse\bin\Debug\Labs Strings4 Morse.exe.config
+C:\GitHub\ElisabethBacus\Labs Strings 4Morse\Labs Strings4 Morse\obj\Debug\Labs Strings4 Morse.exe
+C:\GitHub\ElisabethBacus\Labs Strings 4Morse\Labs Strings4 Morse\obj\Debug\Labs Strings4 Morse.pdb
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs Strings 4Morse\Labs Strings4 Morse\bin\Debug\Labs Strings4 Morse.exe.config
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs Strings 4Morse\Labs Strings4 Morse\obj\Debug\Labs Strings4 Morse.exe
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs Strings 4Morse\Labs Strings4 Morse\obj\Debug\Labs Strings4 Morse.pdb

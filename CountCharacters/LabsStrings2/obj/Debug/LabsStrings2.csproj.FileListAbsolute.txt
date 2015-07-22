@@ -1,0 +1,12 @@
+c:\users\apprentice\documents\visual studio 2013\Projects\LabsStrings2\LabsStrings2\bin\Debug\LabsStrings2.exe.config
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\LabsStrings2\LabsStrings2\bin\Debug\LabsStrings2.exe
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\LabsStrings2\LabsStrings2\bin\Debug\LabsStrings2.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\LabsStrings2\LabsStrings2\obj\Debug\LabsStrings2.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\LabsStrings2\LabsStrings2\obj\Debug\LabsStrings2.exe
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\LabsStrings2\LabsStrings2\obj\Debug\LabsStrings2.pdb
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\LabsStrings2\LabsStrings2\bin\Debug\LabsStrings2.exe.config
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\LabsStrings2\LabsStrings2\obj\Debug\LabsStrings2.exe
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\LabsStrings2\LabsStrings2\obj\Debug\LabsStrings2.pdb
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\LabsStrings2\LabsStrings2\bin\Debug\LabsStrings2.exe
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\LabsStrings2\LabsStrings2\bin\Debug\LabsStrings2.pdb
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\LabsStrings2\LabsStrings2\obj\Debug\LabsStrings2.csprojResolveAssemblyReference.cache
