@@ -1,0 +1,12 @@
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs Nums 3CommonDenom\Labs Nums 3CommonDenom\bin\Debug\Labs Nums 3CommonDenom.exe.config
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs Nums 3CommonDenom\Labs Nums 3CommonDenom\bin\Debug\Labs Nums 3CommonDenom.exe
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs Nums 3CommonDenom\Labs Nums 3CommonDenom\bin\Debug\Labs Nums 3CommonDenom.pdb
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs Nums 3CommonDenom\Labs Nums 3CommonDenom\obj\Debug\Labs Nums 3CommonDenom.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs Nums 3CommonDenom\Labs Nums 3CommonDenom\obj\Debug\Labs Nums 3CommonDenom.exe
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs Nums 3CommonDenom\Labs Nums 3CommonDenom\obj\Debug\Labs Nums 3CommonDenom.pdb
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs Nums 3CommonDenom\Labs Nums 3CommonDenom\bin\Debug\Labs Nums 3CommonDenom.exe.config
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs Nums 3CommonDenom\Labs Nums 3CommonDenom\obj\Debug\Labs Nums 3CommonDenom.exe
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs Nums 3CommonDenom\Labs Nums 3CommonDenom\obj\Debug\Labs Nums 3CommonDenom.pdb
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Katas Csharp\CommonDenom\Labs Nums 3CommonDenom\bin\Debug\Labs Nums 3CommonDenom.exe.config
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Katas Csharp\CommonDenom\Labs Nums 3CommonDenom\obj\Debug\Labs Nums 3CommonDenom.exe
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Katas Csharp\CommonDenom\Labs Nums 3CommonDenom\obj\Debug\Labs Nums 3CommonDenom.pdb
