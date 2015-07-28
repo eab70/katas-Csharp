@@ -41,7 +41,6 @@ namespace Labs_Numbers5
 
 
 //Fibonacci Sequence
-//Difficulty: 2
 
 //Create a program that calculates the Fibonacci sequence up to the Nth term. Ask the user to enter the Nth term and have the program 
 //calculate the sequence until it has printed that many terms.
