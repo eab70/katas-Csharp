@@ -1,0 +1,15 @@
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs S4\Labs S4\bin\Debug\Labs S4.exe.config
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs S4\Labs S4\bin\Debug\Labs S4.exe
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs S4\Labs S4\bin\Debug\Labs S4.pdb
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs S4\Labs S4\obj\Debug\Labs S4.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs S4\Labs S4\obj\Debug\Labs S4.exe
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs S4\Labs S4\obj\Debug\Labs S4.pdb
+C:\GitHub\ElisabethBacus\Labs S4\Labs S4\bin\Debug\Labs S4.exe.config
+C:\GitHub\ElisabethBacus\Labs S4\Labs S4\obj\Debug\Labs S4.exe
+C:\GitHub\ElisabethBacus\Labs S4\Labs S4\obj\Debug\Labs S4.pdb
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs S4\Labs S4\bin\Debug\Labs S4.exe.config
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs S4\Labs S4\obj\Debug\Labs S4.exe
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs S4\Labs S4\obj\Debug\Labs S4.pdb
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Katas Csharp\WordSentenceCount\Labs S4\bin\Debug\Labs S4.exe.config
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Katas Csharp\WordSentenceCount\Labs S4\obj\Debug\Labs S4.exe
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Katas Csharp\WordSentenceCount\Labs S4\obj\Debug\Labs S4.pdb
