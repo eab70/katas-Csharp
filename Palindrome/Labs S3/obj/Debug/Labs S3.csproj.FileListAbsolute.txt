@@ -1,0 +1,18 @@
+c:\users\apprentice\documents\visual studio 2013\Projects\Labs S3\Labs S3\bin\Debug\Labs S3.exe.config
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs S3\Labs S3\obj\Debug\Labs S3.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs S3\Labs S3\bin\Debug\Labs S3.exe
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs S3\Labs S3\bin\Debug\Labs S3.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs S3\Labs S3\obj\Debug\Labs S3.exe
+C:\Users\Apprentice\Documents\Visual Studio 2013\Projects\Labs S3\Labs S3\obj\Debug\Labs S3.pdb
+C:\GitHub\ElisabethBacus\Labs S3\Labs S3\bin\Debug\Labs S3.exe.config
+C:\GitHub\ElisabethBacus\Labs S3\Labs S3\obj\Debug\Labs S3.exe
+C:\GitHub\ElisabethBacus\Labs S3\Labs S3\obj\Debug\Labs S3.pdb
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs S3\Labs S3\bin\Debug\Labs S3.exe.config
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs S3\Labs S3\obj\Debug\Labs S3.exe
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs S3\Labs S3\obj\Debug\Labs S3.pdb
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs S3\Labs S3\obj\Debug\Labs S3.csprojResolveAssemblyReference.cache
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs S3\Labs S3\bin\Debug\Labs S3.exe
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Software Guild apps\Labs\Labs S3\Labs S3\bin\Debug\Labs S3.pdb
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Katas Csharp\Palindrome\Labs S3\bin\Debug\Labs S3.exe.config
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Katas Csharp\Palindrome\Labs S3\obj\Debug\Labs S3.exe
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Katas Csharp\Palindrome\Labs S3\obj\Debug\Labs S3.pdb
