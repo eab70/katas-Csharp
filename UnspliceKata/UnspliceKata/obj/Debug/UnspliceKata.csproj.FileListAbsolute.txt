@@ -10,3 +10,6 @@ C:\Users\Lis\Documents\Visual Studio 2013\Projects\Katas\UnspliceKata\UnspliceKa
 C:\Users\Lis\Documents\Visual Studio 2013\Projects\Katas\UnspliceKata\UnspliceKata\bin\Debug\UnspliceKata.exe
 C:\Users\Lis\Documents\Visual Studio 2013\Projects\Katas\UnspliceKata\UnspliceKata\bin\Debug\UnspliceKata.pdb
 C:\Users\Lis\Documents\Visual Studio 2013\Projects\Katas\UnspliceKata\UnspliceKata\obj\Debug\UnspliceKata.csprojResolveAssemblyReference.cache
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Katas Csharp\UnspliceKata\UnspliceKata\bin\Debug\UnspliceKata.exe.config
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Katas Csharp\UnspliceKata\UnspliceKata\obj\Debug\UnspliceKata.exe
+C:\Users\Lis\Documents\Visual Studio 2013\Projects\Katas Csharp\UnspliceKata\UnspliceKata\obj\Debug\UnspliceKata.pdb
